@@ -19,6 +19,3 @@ Projeto desenvolvido no curso Java Spring Professional - Devsuperior
 - Spring Framework
 
 
-Arnaldo Manuel de Almeida Canelas
-
-https://www.linkedin.com/in/arnaldocanelas
